@@ -1,0 +1,6 @@
+A free guide to <head> elements
+https://gethead.info/
+
+
+The Front-End Checklist Application
+https://frontendchecklist.io/
